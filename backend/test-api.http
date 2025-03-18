@@ -1,0 +1,4 @@
+GET http://localhost:3000
+
+### Test API
+GET http://localhost:3000/todos
